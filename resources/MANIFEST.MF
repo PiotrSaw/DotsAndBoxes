@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 1.14.0.1
+Main-Class: game.Main
+Class-Path: resources/ikona.png
